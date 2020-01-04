@@ -1,6 +1,6 @@
 ## NextJS + React + Typescript boilerplate
 
-A simple setup to create/start a new react project based on nextjs. This boilerplate includes following:
+A simple setup to create/start a new react project based on nextjs, react and typescript. This boilerplate includes following:
 
 - next
 - react/react-dom
