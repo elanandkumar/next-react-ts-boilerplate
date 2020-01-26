@@ -1,5 +1,9 @@
+import Layout from '@components/Layout';
+
 function HomePage() {
-  return <div>Welcome to Next.js</div>;
+  return <Layout>
+    <main>Main content section</main>
+  </Layout>;
 }
 
 export default HomePage;
